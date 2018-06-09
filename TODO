@@ -4,3 +4,7 @@ Todos:
     ☐ amountをprivateにする
     ✔ Dollarの副作用をどうする？ @started(18-06-09 16:02) @done(18-06-09 16:03) @lasted(1m45s)
     ☐ Moneyの丸め処理をどうする？
+    ✔ equals() @started(18-06-09 16:09) @done(18-06-09 16:12) @lasted(3m4s)
+    ☐ hashCode()
+    ☐ nullの等価性比較
+    ☐ 他オブジェクトとの等価性比較
