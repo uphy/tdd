@@ -8,3 +8,6 @@ Todos:
     ☐ hashCode()
     ☐ nullの等価性比較
     ☐ 他オブジェクトとの等価性比較
+    ☐ DollarとFrancの重複
+    ☐ equalsの一般化
+    ☐ timesの一般化
