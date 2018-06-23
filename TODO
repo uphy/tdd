@@ -1,7 +1,7 @@
 Todos:    
     ☐ $5 + 10CHF = $10 (レートが2:1の場合)
     ✔ $5 * 2 = $10 @started(18-06-09 15:38) @done(18-06-09 16:00) @lasted(22m55s)
-    ☐ amountをprivateにする
+    ✔ amountをprivateにする @done(18-06-23 21:34)
     ✔ Dollarの副作用をどうする？ @started(18-06-09 16:02) @done(18-06-09 16:03) @lasted(1m45s)
     ☐ Moneyの丸め処理をどうする？
     ✔ equals() @started(18-06-09 16:09) @done(18-06-09 16:12) @lasted(3m4s)
