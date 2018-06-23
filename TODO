@@ -12,5 +12,5 @@ Todos:
     ✔ equalsの一般化 @started(18-06-23 21:44) @done(18-06-23 21:50) @lasted(6m41s)
     ☐ timesの一般化
     ✔ FrancとDollarを比較する @started(18-06-23 21:52) @done(18-06-23 21:54) @lasted(2m35s)
-    ☐ 通過の概念 @started(18-06-23 22:02)
+    ✔ 通過の概念 @started(18-06-23 22:02) @done(18-06-23 22:11) @lasted(9m29s)
     ☐ testFrancMultiplicationを削除する？
