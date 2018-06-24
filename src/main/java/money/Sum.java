@@ -11,7 +11,7 @@ public class Sum implements Expression {
     }
 
     @Override
-    public Money reduce(String to) {
+    public Money reduce(Bank bank, String to) {
         return new Money(this.augend.amount + this.addend.amount, to);
     }
 

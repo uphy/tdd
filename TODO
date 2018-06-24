@@ -3,6 +3,8 @@ Todos:
     ☐ $5 + $5 = $10 @started(18-06-23 22:22)
     ☐ $5 + $5がMoneyを返す
     ✔ Bank.reduce(Money) @started(18-06-23 22:46) @done(18-06-23 22:50) @lasted(4m47s)
+    ✔ Moneyを変換して換算する @started(18-06-24 10:55) @done(18-06-24 11:23) @lasted(28m7s)
+    ✔ Reduce(Bank, String) @done(18-06-24 11:23)
     ✔ $5 * 2 = $10 @started(18-06-09 15:38) @done(18-06-09 16:00) @lasted(22m55s)
     ✔ amountをprivateにする @done(18-06-23 21:34)
     ✔ Dollarの副作用をどうする？ @started(18-06-09 16:02) @done(18-06-09 16:03) @lasted(1m45s)
@@ -17,3 +19,4 @@ Todos:
     ✔ FrancとDollarを比較する @started(18-06-23 21:52) @done(18-06-23 21:54) @lasted(2m35s)
     ✔ 通過の概念 @started(18-06-23 22:02) @done(18-06-23 22:11) @lasted(9m29s)
     ☐ testFrancMultiplicationを削除する？
+    ☐ Bank#rate()でNullPointerException
