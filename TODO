@@ -1,7 +1,9 @@
 Todos:    
-    ☐ $5 + 10CHF = $10 (レートが2:1の場合)
+    ☐ $5 + 10CHF = $10 (レートが2:1の場合) @started(18-06-24 11:46)
     ☐ $5 + $5 = $10 @started(18-06-23 22:22)
     ☐ $5 + $5がMoneyを返す
+    ☐ Sum.plus
+    ☐ Expression.plus
     ✔ Bank.reduce(Money) @started(18-06-23 22:46) @done(18-06-23 22:50) @lasted(4m47s)
     ✔ Moneyを変換して換算する @started(18-06-24 10:55) @done(18-06-24 11:23) @lasted(28m7s)
     ✔ Reduce(Bank, String) @done(18-06-24 11:23)
